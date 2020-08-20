@@ -8,3 +8,7 @@ I used libraries below:
 https://github.com/Karumi/Dexter
 
 https://github.com/natario1/CameraView
+
+https://github.com/tanersener/mobile-ffmpeg
+
+https://github.com/MindorksOpenSource/PRDownloader
