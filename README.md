@@ -1,6 +1,8 @@
 # Duet
 This app is free license and you can use it any where you want.
 
+Dedication to my dear friend Mahendra S. who clarified to me what world I live in. :)
+
 I used libraries below:
 
 https://github.com/Karumi/Dexter
