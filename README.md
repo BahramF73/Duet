@@ -1,7 +1,8 @@
 # Duet
 This app is free license and you can use it any where you want.
 
-# Note
+Note
+--------------
 
 If you want learn develop this app in kotlin and how it is works, you can subscribe my youtube channel.
 
