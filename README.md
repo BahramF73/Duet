@@ -15,5 +15,3 @@ https://github.com/natario1/CameraView
 https://github.com/tanersener/mobile-ffmpeg
 
 https://github.com/MindorksOpenSource/PRDownloader
-
-Dedication to my dear friend Mahendra S. who clarified to me what world I live in. :)
