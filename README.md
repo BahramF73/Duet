@@ -1,4 +1,6 @@
 # Duet
+Duet feature in TikTok.
+
 This app is free license and you can use it any where you want.
 
 Note
